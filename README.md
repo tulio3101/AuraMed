@@ -1,4 +1,4 @@
-# Medical Specialty Prediction System using AI
+# Artificial Intelligence model to assign treatment to a sick person based on a clinical note
 
 ## 🎯 Project Idea
 
